@@ -25,5 +25,4 @@
 *******************************
 
 
-https://qingshanjinian.gatsbyjs.io/
 
